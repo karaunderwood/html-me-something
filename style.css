@@ -60,13 +60,53 @@ body {
   height: 250px;
 }
 
-.wanakapic {
+#wanakapic {
   background-image: url("images/wanaka_roys_peak.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
   width: 100%;
   padding: 20px;
   height: 600px;
+}
+
+#mountCook {
+  background-image: url("images/gettyimages-904801296.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 100%;
+  padding: 20px;
+  height: 600px;
+  color: white;
+}
+
+#pihaBeach {
+  background-image: url("images/casey-horner-M6NZYgX0Z6U-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 100%;
+  padding: 20px;
+  height: 600px;
+  color: gray;
+}
+
+#cape {
+  background-image: url("images/lucile-noiriel-SfO7KJP8U6c-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 100%;
+  padding: 20px;
+  height: 600px;
+  color: gray;
+}
+
+#castlepoint {
+  background-image: url("images/louis-andrew-tungol-2k0kfONNEdM-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 100%;
+  padding: 20px;
+  height: 600px;
+  color: gray;
 }
 
 .runneruppics {
