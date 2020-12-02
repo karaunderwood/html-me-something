@@ -10,7 +10,7 @@ body {
   margin: 0;
 }
 
-/* Header/logo Title */
+/* Header */
 .header {
   letter-spacing: 4px;
   padding: 80px;
@@ -51,7 +51,7 @@ body {
   padding: 20px;
 }
 
-/* Fake image, just for this example */
+/* intro pic */
 #uspic {
   background-image: url("images/karatom.jpg");
   background-repeat: no-repeat;
